@@ -28,7 +28,7 @@ version = u''
 # The full version, including alpha/beta/rc tags
 release = u'0.0.1'
 
-
+# numpydoc_show_class_members = False
 # -- General configuration ---------------------------------------------------
 
 # If your documentation needs a minimal Sphinx version, state it here.

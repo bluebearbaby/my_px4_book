@@ -9,9 +9,9 @@ Welcome to state_machine's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-    helloworld
-    hello2
+   
+   helloworld
+   hello2
 
 Indices and tables
 ==================
