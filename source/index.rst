@@ -11,6 +11,7 @@ Welcome to state_machine's documentation!
    :caption: Contents:
 
     helloworld
+    hello2
 
 Indices and tables
 ==================
